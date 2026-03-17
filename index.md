@@ -6,10 +6,9 @@
 
 <body>
   <h1>Darg Boni</h1>
-  <p>Biochemistry | Music | Knitting</p>
 
   <nav>
-    <a href="#biochem">Biochem</a>
+    <a href="#biochem">Biochemistry</a>
     <a href="#music">Music</a>
     <a href="#knitting">Knitting</a>
   </nav>
