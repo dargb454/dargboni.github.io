@@ -1,13 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
-  Darg Boni
-  <link rel="stylesheet" href="style.css">
-</head>
 
 <body>
-  <h1>Your Name</h1>
-  <p>Biochemistry | Music | Knitting</p>
+  <h1>Darg Boni</h1>
 
   <nav>
     <a href="#biochem">Biochem</a>
