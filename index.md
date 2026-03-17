@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Darg Boni</title>
+  Darg Boni
   <link rel="stylesheet" href="style.css">
 </head>
 
