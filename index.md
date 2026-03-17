@@ -8,9 +8,10 @@
   <h1>Darg Boni</h1>
 
   <nav>
-    <a href="#biochem">Biochemistry</a>
-    <a href="#music">Music</a>
-    <a href="#knitting">Knitting</a>
+    <a href="#biochem.html" class="card">Biochemistry</a>
+    <a href="#music.html" class="card">Music</a>
+    <a href="#knitting.html" class="card">Knitting</a>
+
   </nav>
 
   <section id="biochem">
