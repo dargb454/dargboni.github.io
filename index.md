@@ -1,29 +1,30 @@
+<!DOCTYPE html>
 <html>
-<link rel="stylesheet" href="style.css">
-
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
 
 <body>
   <h1>Darg Boni</h1>
+  <p class="subtitle">Biochemistry • Music • Knitting</p>
 
-  <nav>
-    <a href="#biochem">Biochem</a>
-    <a href="#music">Music</a>
-    <a href="#knitting">Knitting</a>
-  </nav>
+  <div class="grid">
 
-  <section id="biochem">
-    <h2>Biochemistry</h2>
-    <p>Your work here</p>
-  </section>
+    <a href="biochem.html" class="card">
+      <img src="biochem.jpg">
+      <h2>Biochemistry</h2>
+    </a>
 
-  <section id="music">
-    <h2>Music</h2>
-    <p>Your work here</p>
-  </section>
+    <a href="music.html" class="card">
+      <img src="music.jpg">
+      <h2>Music</h2>
+    </a>
 
-  <section id="knitting">
-    <h2>Knitting</h2>
-    <p>Your work here</p>
-  </section>
+    <a href="knitting.html" class="card">
+      <img src="knitting.jpg">
+      <h2>Knitting</h2>
+    </a>
+
+  </div>
 </body>
 </html>
