@@ -15,17 +15,17 @@
 
   <section id="biochem">
     <h2>Biochemistry</h2>
-    <p>Your work here</p>
+    <p>Current biochemistry student at CWRU. Need to talk about research and whenever I get jobs.</p>
   </section>
 
   <section id="music">
     <h2>Music</h2>
-    <p>Your work here</p>
+    <p>Could include snippets of music but also lots of pictures</p>
   </section>
 
   <section id="knitting">
     <h2>Knitting</h2>
-    <p>Your work here</p>
+    <p>Definitely a ton of pictures. Explain what they are and match the colors</p>
   </section>
 </body>
 </html>
