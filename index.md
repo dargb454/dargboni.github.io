@@ -1,4 +1,3 @@
----
-Darg Boni
-Biochemist, Musician, Artist
----
+# Darg Boni
+### Biochemist, Musician, Artist
+
