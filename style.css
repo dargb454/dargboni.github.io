@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background-color: #f7f7fb;
+  color: #222;
+}
+
+nav a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: #6a5acd;
+  font-weight: bold;
+}
+
+section {
+  margin-top: 50px;
+}
